@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  why i am still a utilitarian
-date:   1 May 2013
+date:   1 May 2014
 author: Peter Bowden
 categories: australian-ethics
 ---
