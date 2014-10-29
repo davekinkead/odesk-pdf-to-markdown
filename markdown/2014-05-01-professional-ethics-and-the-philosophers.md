@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  professional ethics and the philosophers
+title:  Professional ethics and the philosophers
 date:   1 May 2014
 author: Alan Tapper and Stephan Millet
 categories: australian-ethics
