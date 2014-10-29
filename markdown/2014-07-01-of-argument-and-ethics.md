@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Of argument and ethics
-date:   1 Jul 2014
+date:   1 May 2014
 author: Hugh Breakey 
 categories: australian-ethics
 ---

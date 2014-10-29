@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  professional ethics and the philosophers
+title:  Professional ethics and the philosophers
 date:   1 May 2013
 author: Howard Harris
 categories: australian-ethics

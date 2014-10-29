@@ -3,7 +3,7 @@
 
 1. Register a free account on github if you don't already have one.
 2. Fork this repo
-3. Open the pdf in the `pdf` dir called [Australian Ethics-5-2014.pdf](pdf/Australian Ethics-5-2014.pdf). (View the raw file to download)
+3. Open the pdf in the `pdf` dir assigned. (View the raw file to download)
 4. For each article in the newsletter, do the following:
 	1. Create a new file in the format `YYYY-MM-DD-title-of-article.md`.  Navigate to the `markdown` folder and click on the `+` button.
 	2. Copy the article text from the pdf into markdown.
