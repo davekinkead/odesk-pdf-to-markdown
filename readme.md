@@ -3,20 +3,20 @@
 
 1. Register a free account on github if you don't already have one.
 2. Fork this repo
-3. Open the pdf in the `pdf` dir called [Australian Ethics-5-2014.pdf](pdf/Australian Ethics-5-2014.pdf)
+3. Open the pdf in the `pdf` dir called [Australian Ethics-5-2014.pdf](pdf/Australian Ethics-5-2014.pdf). (View the raw file to download)
 4. For each article in the newsletter, do the following:
-	1. Create a new file in the format `YYYY-MM-DD-title-of-article.md`
+	1. Create a new file in the format `YYYY-MM-DD-title-of-article.md`.  Navigate to the `markdown` folder and click on the `+` button.
 	2. Copy the article text from the pdf into markdown.
 	3. Fix any copying errors such as split words and remove any footer or page numbers
 	4. Add the YAML front matter (see below)
-	5. Save the file
+	5. Save the file and add a commit message.
 5. When you have completed this for all the articles in `Australian Ethics-5-2014.pdf`, create a pull request to notify me.
 
 This is a trial task for a single newsletter so I can check your. On successful completion of this, I will advise if I want you to do the remaining 15 newsletters.
 
 You may take up to 1 hour for this trial task.
 
-An example of the first article in the newsletter can be found here [2014-07-01-of-argument-and-ethics.md](markdown/2014-07-01-of-argument-and-ethics.md)
+An example of the first article in the newsletter can be found here [2014-07-01-of-argument-and-ethics.md](markdown/2014-07-01-of-argument-and-ethics.md) (view the raw file)
 
 
 ## YAML front matter
@@ -44,3 +44,8 @@ All that will need to change is the title, date, and author values.  The date is
 ## Questions
 
 If you have a question, please create an issue and ask it there.
+
+
+## Answers
+
+When responding to the oDesk ad, you are asked a strange question. The answer to the question is `Bananas`.  This is to show me that you have actually read the job specs.
