@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Building ethical behaviour
@@ -14,11 +13,13 @@ The concepts outlined in the following paragraphs are primarily institutionally 
 The practices are, in many cases, drawn from an examination of ethical behaviours across fourteen different disciplines, in an about-to-be-published AAPAE book, Applied Ethics. Some are full chapters in the book; others however, are only support to the main arguments. The final section, the implications of the findings, however, is a separate issue – an attempt to examine what are the implications of these practices.
 
 There are seven practices in all:
-(i) Strengthening our ability to recognise when we ourselves have been unethical;(ii) Steps to encourage us to speak out against wrongdoing;
-(iii) Developments in codes of ethics that make them effective;
-(iv) Policies adopted by private sector organisations to institutionalise ethical behaviour;
-(v) New programs for ensuring greater honesty in government;
-(vi) Building action on empirical findings, not argument.(vii) Teaching these practices
+
+1. Strengthening our ability to recognise when we ourselves have been unethical;
+2. Steps to encourage us to speak out against wrongdoing;
+3. Developments in codes of ethics that make them effective;
+4. Policies adopted by private sector organisations to institutionalise ethical behaviour;
+5. New programs for ensuring greater honesty in government;
+6. Building action on empirical findings, not argument.(vii) Teaching these practices
 
 Several moral philosophers actively decry these developments, despite their benefits, a concern further discussed below. But let us first describe the practices. The first is an analysis of why we adopt practices that result in us not seeing wrongdoing, or in ignoring it when we do see it.
 
