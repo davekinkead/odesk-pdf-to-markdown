@@ -1,4 +1,3 @@
-﻿
 ---   
 layout: post
 title:  Ethical maturity in the helping professions making difficult life and work decisions
