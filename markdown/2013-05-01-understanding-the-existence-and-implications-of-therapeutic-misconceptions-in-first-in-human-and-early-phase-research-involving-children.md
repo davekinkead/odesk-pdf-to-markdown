@@ -1,4 +1,3 @@
-﻿
 ---   
 layout: post
 title:  Understanding the existence and implications of therapeutic misconceptions in first in human and early phase research involving children
@@ -20,3 +19,29 @@ The nature of EPR—including the limited potential for benefit and significant 
 A doctoral research project is currently being undertaken by the Center for Health and Society, and the Melbourne Medical School (University of Melbourne) which considers the ethical implications for the consent process when parents who hold therapeutic misconceptions agree for their child to take part in EPR. The study will also consider whether the existence of therapeutic misconceptions invalidates consent under current Australian laws.
 
 Primarily the justification for the study is a concern that any therapeutic misconceptions about research participation, as perceived by the parents of child participants, may impact on their ability to deliberate and make a meaningful, valid decisions about their child’s involvement in EPR [23, 24]. This is particularly the case for parents deliberating about enrolling children with refractory disease in experimental clinical studies that may involve limited potential for benefit but great potential for uncertain risks and harms.
+
+####References####
+1. Nossal, G., Medical Science and Human Goals. 1975, Port Melbourne: Edward Arnold Australia.
+2. Cheng, J., et al., Impact of quality of life on patients expectations regarding phase I clinical trials. Journal Of Clinical Oncology, 2000. 18(2): p. 421-428.
+3. Kimmelman, J., Gene Transfer and the Ethics of First-in-Human Research: Lost in Translation, ed. C. Medicine. 2012, Cambridge: Cambridge University Press.
+4. Travis, K., For Phase 1 Studies, Ethical and Practical Concerns Abound. Journal of the National Cancer Institute, 2004: p. 1354-1355.
+5. Miller, V., et al., Clinician-parent communication during informed consent for pediatric leukemia trials. Journal Of Pediatric Psychology, 2005. 30 (3): p. 219-229.
+6. de Vries, M., et al., Ethical issues at the interface of clinical care and research practice in pediatric oncology: a narrative review of parents’ and physicians’ experiences. BMC Medical Ethics, 2011. 12(18).
+7. Keech, A., V. Gebski, and R. Pike, Interpreting and Reporting Clinical Trials. A guide to the consort statement and the principles of randomised controlled trials. 2007, Sydney: Australian Medical Publishing.
+8. Cancer Statistics Review, 1975-2004 National Cancer Institute (based on November 2006 data submission), L. Ries, et al., Editors. 2007 National Cancer Institute: Bethesda, MD.
+9. Jemal, A., et al., Cancer statistics. Journal of Clinical Cancer. 2002. 52: p. 23-47. 
+10. Kim, A., et al., Characteristics and Outcomes of pediatric patietns Enrolled in Phase I Oncology Trials. The Oncologist, 2011. 17: p. 5982-5990.
+11. Furman, W., C. Pratt, and G. Rivera, Mortality in pediatric phase I clinical trials. Journal of National Cancer Institute, 1989. 81(15): p. 1193-1194.
+12. Estlin, E., S. Ablett, and D.e.a. Newell, Phase I trials in pediatric oncology: The European perspective- the New Agents group of the United Kingdom Children's Cancer Study Group. Invest New Drugs, 1996. 14: p. 23-32.
+13. Estlin, E., et al., Phase I Trials in Pediatric Oncology: Perceptions of Pediatricians From the United Kingdom Children's Cancer Study Group and the Pediatric Oncology Group. Journal Of Clinical Oncology, 2000. 18(9): p. 1900-1905. 
+14. Gupter, K., J. Gupter, and S. Singh, Surrogate Endpoints: How Reliable Are They? Journal of Clinical Research Best Practice, 2012. 6(5). 
+15. Stepanov, N., In the Absence of Benefit: Questioning the Legitimacy of Parents’ Rights to Enrol their Child in Early-Phase and First-in-human Research, in Australasian Association of Bioethics and Health Law. 2013: University fo Sydney, Faculty of Law. 
+16. De Vries MC, et al., Norms versus Practice: Pediatric Oncologists’ Attitudes towards Involving Adolescents in Decision Making concerning Research Participation. Pediatr Blood Cancer 2010. 55(1): p. 12-128. 
+17. de Vries, M.C., et al., Ethical issues at the interface of clinical care and research practice in pediatric oncology: a narrative review of parents' and physicians' experiences. BMC Med Ethics, 2011. 12: p. 18. 
+18. Gillam, L. and J. Sullivan, Ethics at the end of life: Who should make decisions about treatment limitation for young children with life-threatening or life-limiting conditions? Journal of Paediatrics & Child Health, 2011. 47(9): p. 594-598. 
+19. Spriggs, M.P. and L.H. Gillam, Consent in paediatric research: an evaluation of the guidance provided in the 2007 NHMRC National statement on ethical conduct in human research. The Medical Journal Of Australia, 2008. 188(6): p. 360-362. 
+20. Snowdon, C., J. Garcia, and D. Elbourne, Making sense of randomization: responses of parents of critically ill babies to random allocation of treatment in a clinical trial. Social Science & Medicine, 1997. 45: p. 1337-1355. 
+21. Kupst, M., et al., Clinical trials in pediatric cancer: parental perspectives on informed consent. Journal Of Pediatric Hematology/Oncology: Official Journal Of The American Society Of Pediatric Hematology/Oncology, 2003. 25(10): p. 787-790. 
+22. Wiley, F., et al., Parents’ perceptions of randomization in pediatric clinical trials. Cancer Practitioner, 1999. 7: p. 248-256.
+23. Appelbaum, P.S. and C. Lidz, Re-evaluating the therapeutic misconception: response to Miller and Joffe. Journal of the Kennedy Institute of Ethics, 2006. 16(4): p. 367-373.
+24. Appelbaum, P.S. and C.W. Lidz, Re-evaluating the therapeutic misconception: response to Miller and Joffe. Kennedy Institute of Ethics Journal, 2006. 16(4): p. 367-373.
