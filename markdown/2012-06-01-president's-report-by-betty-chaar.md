@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  President's report by Betty Chaar
@@ -25,7 +24,7 @@ This edition of Australian Ethics comes to you just before our 19th annual confe
 
 Located within the University of Queensland campus, St John's College is situated in a garden setting, providing both a beautiful and practical conference location. The conference convenor, Reverend Professor John Morgan, has lined up an exciting selection of events, papers and guest speakers under the theme of:
 
-Ethics, Values and Civil Society - Ethical, Historical, Professional and Political Perspectives
+####Ethics, Values and Civil Society - Ethical, Historical, Professional and Political Perspectives###
 
 We will also be honoring some long standing founding members of the AAPAE at the conference this year. All this, with new opportunities to publish papers submitted to the conference to be announced, will make the effort to attend this conference worth your while.
 
