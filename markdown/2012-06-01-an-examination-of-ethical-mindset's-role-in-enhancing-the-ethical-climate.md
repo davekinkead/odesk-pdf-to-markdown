@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  An examination of ethical mindsets’ role in enhancing the ethical climate in Australian organizations leading to a more sustainable business.
