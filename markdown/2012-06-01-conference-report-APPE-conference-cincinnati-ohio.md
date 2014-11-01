@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  Conference Report: APPE conference Cincinnati Ohio
+title:  Conference Report APPE conference Cincinnati Ohio
 date:   1-4 March 2012
 author: Howard Harris 
 categories: australian-ethics
 ---
-
 The 21st annual conference of the Association for Practical and Professional Ethics, APPE, was held in Cincinnati, Ohio. There were 283 delegates but not many from outside the US – 3 from Australia (Seumas Miller, Ed Spence and myself), one each from Japan, Chile, Netherlands. All the sessions were during the day on Friday and Saturday. There were 8 or 9 parallel sessions for most of the time, with a total of 80 separate sessions, some with 4-5 speakers in a panel or roundtable. So some sessions were quite small, with only 3 or 4 present. There was almost no free time, with the first day starting with the Keynote address at 8:15am and ending with the conference dinner.
 
 The key note address was given by a practitioner, lawyer Kenneth Feinberg, who has been the individual appointed to administer the distribution of trust funds to victims of 9/11, of the Virginia Tech shootings, and the $20 billion trust set up with funds from BP after the Deepwater Horizon disaster. These ‘special funds’ could not be subject to rules in advance – “if this predetermined number of people are killed there will be a fund” – he argued; only the people and the politicians can determine action after the event.
