@@ -1,4 +1,3 @@
-﻿
 ---   
 layout: post
 title:  The fundamental concepts of the Australian society
