@@ -1,4 +1,3 @@
-﻿
 ---
 layout: post
 title:  Conference Report: APPE conference Cincinnati Ohio
