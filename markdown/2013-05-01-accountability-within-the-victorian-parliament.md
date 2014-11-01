@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Accountability within the Victorian parliament
 date:   1 May 2013
