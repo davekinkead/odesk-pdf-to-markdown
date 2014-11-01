@@ -1,4 +1,3 @@
-﻿
 ---
 layout: post
 title:  Are you currently facing an ethical challenge in your professional life?
