@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Research in Ethical Issues in Organizations and the AAPAE
