@@ -1,5 +1,4 @@
-﻿
----
+﻿---
 layout: post
 title:  From Sydney to Bergamo, president's report by Michael Schwartz
 date:   1 December 2010

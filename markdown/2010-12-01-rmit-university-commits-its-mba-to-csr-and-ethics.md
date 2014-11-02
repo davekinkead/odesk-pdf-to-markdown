@@ -1,5 +1,4 @@
-﻿
----
+﻿---
 layout: post
 title:  RMIT university commits its MBA to CSR and ethics
 date:   1 December 2010

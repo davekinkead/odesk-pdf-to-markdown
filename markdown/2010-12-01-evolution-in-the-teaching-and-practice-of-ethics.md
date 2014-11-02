@@ -1,5 +1,4 @@
-﻿
----
+﻿---
 layout: post
 title:  Evolution in the teaching and practice of ethics
 date:   1 December 2010

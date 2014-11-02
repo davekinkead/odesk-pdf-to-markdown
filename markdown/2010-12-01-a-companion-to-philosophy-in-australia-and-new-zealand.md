@@ -1,5 +1,4 @@
-﻿
----
+﻿---
 layout: post
 title:  A companion to philosophy in Australia and New Zealand
 date:   1 December 2010

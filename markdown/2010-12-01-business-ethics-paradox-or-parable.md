@@ -1,5 +1,4 @@
-﻿
----
+﻿---
 layout: post
 title:  Business ethics: paradox or parable?
 date:   1 December 2010
