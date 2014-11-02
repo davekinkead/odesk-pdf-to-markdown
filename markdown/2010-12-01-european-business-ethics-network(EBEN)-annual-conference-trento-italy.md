@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  European business ethics network (EBEN), annual conference, Trento Italy
 date:   1 December 2010
