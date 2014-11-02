@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title:  Business ethics: paradox or parable?
+title:  "Business ethics: paradox or parable?"
 date:   1 December 2010
 author: A/Prof Sandra Lynch & Matthew Beard
 categories: australian-ethics
