@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  President's report by Stephen Cohen: Introduction to the selected papers from the 19th annual AAPAE conference
+title: "President's report by Stephen Cohen: Introduction to the selected papers from the 19th annual AAPAE conference"
 date:   1 December 2012
 author: Stephen Cohen
 categories: australian-ethics
