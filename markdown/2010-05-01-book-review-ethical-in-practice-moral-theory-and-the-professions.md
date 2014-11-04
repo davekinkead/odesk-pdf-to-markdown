@@ -1,5 +1,5 @@
-﻿---
-layout:post
+---
+layout: post
 title:  "Book review: “Ethics in practice. Moral theory and the professions” Andrew Alexandra and Seumas Miller, UNSW Press, 2009."
 date:   1 May 2010
 author: Peter Bowden
