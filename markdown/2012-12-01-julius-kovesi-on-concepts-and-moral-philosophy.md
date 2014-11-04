@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Julius Kovesi on concepts and moral philosophy
 date:   1 Dec 2012
