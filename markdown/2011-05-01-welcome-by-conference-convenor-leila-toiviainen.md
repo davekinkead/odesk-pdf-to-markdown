@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Welcome! By Conference Convenor Leila Toiviainen
 date:   1 May 2011
