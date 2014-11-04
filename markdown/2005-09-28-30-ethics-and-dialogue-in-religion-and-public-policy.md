@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ethics and dialogue in religion and public policy
-date:   28-30 September 2005
+date:   28 September 2005
 author: Chris Provis, University of South Australia
 categories: australian-ethics
 ---
@@ -133,4 +133,3 @@ If this sketchy account has any merit, then one implication is that we need to e
 24 I have discussed these issues at greater length in Provis, C, Ethics and organisational politics, Cheltenham and Northampton: Edward Elgar, 2004, chs 8 and 9.
 
 25 The point here is essentially similar to a point that can be made about the criteria for ethical evaluation of negotiation: see Provis, C (2004) ‘Negotiation, persuasion and argument’, Argumentation, 18:1, 95–112.
-
