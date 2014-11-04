@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  A reply to Hugh Breakey
 date:   1 Dec 2012
