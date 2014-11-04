@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  A return to EBEN university of Antwerp, September, 2011
 date:   1 Sep 2011
