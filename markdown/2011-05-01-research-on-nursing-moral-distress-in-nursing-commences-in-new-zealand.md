@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Research on nursing moral distress in nursing commences in New Zealand
 date:   1 May 2011
