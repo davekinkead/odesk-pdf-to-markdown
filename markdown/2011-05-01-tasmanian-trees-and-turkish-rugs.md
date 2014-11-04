@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Tasmanian trees and Turkish rugs
 date:   1 May 2011
