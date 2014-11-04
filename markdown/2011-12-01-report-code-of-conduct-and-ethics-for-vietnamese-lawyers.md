@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title:  Report: code of conduct and ethics for Vietnamese lawyers
+title:  "Report: code of conduct and ethics for Vietnamese lawyers"
 date:   1 December 2011
 author: Roderick O‘Brien
 categories: australian-ethics
