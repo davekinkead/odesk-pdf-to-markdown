@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Ethics in creative industries and complementary medicine
 date:   1 December 2011
@@ -6,7 +6,7 @@ author: Emma Rush
 categories: australian-ethics
 ---
 
-####Would you expect a graphic designer to have an understanding of what professional ethics requires of them? What about a photographer? A naturopath? A massage therapist?####
+#### Would you expect a graphic designer to have an understanding of what professional ethics requires of them? What about a photographer? A naturopath? A massage therapist? ####
 
 The deeper and more general question behind these specific ones is whether university-educated practitioners within such 'new‘ professions should be expected both to understand and to practise the relevant professional ethics.
 
@@ -20,7 +20,7 @@ Ethics and Law for Creative Industries is currently under development, for offer
 
 My explorations to date suggest that there are still many gaps in the ethics literature in both of these professional/disciplinary areas (complementary medicine and creative industries), so I‘d be delighted to hear from anyone else working in these areas who might be interested in future research collaboration.
 
-####Dr Emma Rush####
+#### Dr Emma Rush ####
 
 Lecturer in Philosophy and Ethics
 
