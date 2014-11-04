@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  My last experience of ethical business
 date:   1 May 2011
