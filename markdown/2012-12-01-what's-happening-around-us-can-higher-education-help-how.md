@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  What's happening around us? Can higher education help? How?
 date:   1 Dec 2012
