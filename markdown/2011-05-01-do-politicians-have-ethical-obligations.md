@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Do politicians have ethical obligations?
 date:   1 May 2011
