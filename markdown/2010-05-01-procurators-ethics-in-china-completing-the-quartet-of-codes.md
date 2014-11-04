@@ -1,6 +1,6 @@
 ﻿---
-layout:post
-title:  "Procurators‘ ethics in China: completing the quartet of codes"
+layout: post
+title:  Procurators‘ ethics in China: completing the quartet of codes
 date:   1 May 2010
 author: Roderick O‘Brien
 categories: australian-ethics

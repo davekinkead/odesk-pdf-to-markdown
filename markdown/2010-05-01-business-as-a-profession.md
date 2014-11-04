@@ -1,5 +1,5 @@
 ﻿---
-layout:post
+layout: post
 title:  Business as a profession?
 date:   1 May 2010
 author: David Ardagh

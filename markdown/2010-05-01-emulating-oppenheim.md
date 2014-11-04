@@ -1,5 +1,5 @@
 ﻿---
-layout:post
+layout: post
 title:  Emulating Oppenheimer president's report by Michael Schwartz
 date:   1 May 2010
 author: Michael Schwartz

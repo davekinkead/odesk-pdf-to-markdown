@@ -1,5 +1,5 @@
 ﻿---
-layout:post
+layout: post
 title:  Keynote speakers
 date:   1 May 2010  
 author: 
