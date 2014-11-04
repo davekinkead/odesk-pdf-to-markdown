@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Ethics and dialogue in religion and public policy
 date:   28-30 September 2005
@@ -60,7 +60,7 @@ The further implication is that it is not viable to draw a line between one sort
 
 In summary so far, then, I am contending that public policy formulation and implementation at all levels is likely to require dialogue with community members, because the approaches to public policy which revolve around market mechanisms and individual preference satisfaction simply cannot account for such facts as that some preferences are more worthy than others and that it is not possible effectively to segregate policy formulation from policy implementation and service delivery. Acceptable service delivery no less than sound policy formulation will require dialogue with community members. It will require ‘voice’ and not only ‘exit’ behaviour, in Hirschman’s terms.13 In Elster’s terms, it will require the processes of the forum as well as the processes of the market.14
 
-####Dialogue, public policy and religion####
+#### Dialogue, public policy and religion ####
 
 Dialogue is important in a variety of public policy contexts, from local community policy implementation to international efforts at dealing with terrorism. The need for dialogue and problems with dialogue emerge in some of the other responses shown on the BBC website after Mohammad Khan’s video statement. While one respondent says ‘Your beliefs and ways are just something I will never understand’, and another ‘It makes me so furious watching that sickeningly evil person try to justify his carnage with a completely flawed argument’, yet another says ‘It’s depressing that no one seems to want to talk about problems but rather just kill each other’.
 
@@ -80,7 +80,7 @@ My suggestion here is that differences in religious commitments and other commit
 
 In dialogue that partly involves people engaging with one another’s ways of seeing, we may have to evaluate dialogue processes in essentially ethical terms: not just by reference to their effects on attaining true or false beliefs. It may be that the criteria for evaluating participation in dialogue are not only outcome-oriented but also process-oriented: it may be that they do not revolve just around truth or falsity, but around efforts to genuinely apprehend and engage with others’ ways of seeing things.25
 
-####Conclusion####
+#### Conclusion ####
 
 If this sketchy account has any merit, then one implication is that we need to examine more fully the nature of dialogue, the criteria we may use to evaluate it, and standards we may use to guide our own participation in it. I think that at present we are not clear about how to approach dialogue that to some extent involves interaction amongst people’s different ‘ways of seeing’ or ‘framing’. We are familiar with dialogue that revolves around people’s different preferences. We have well-established principles and standards to govern processes of bargaining and exchange, and quite well-developed ideas about fairness, even if we often fail to implement those principles and standards in contexts where different parties have varying advantages and power.  We also have quite well-established methods for dialogue and discussion where differences hinge on truth and falsity. Principles of scientific enquiry and academic encounter can often be given their justification by reference to what processes are most likely to turn up true rather than false propositions. Even rules of courtroom procedure can often be given some justification in similar terms. However, we have less well-established approaches to forms of dialogue that are neither about preferences, to be dealt with in market processes, nor about distinguishing true from false propositions, but which are about commitments people have which involve different ways of seeing the world.
 
