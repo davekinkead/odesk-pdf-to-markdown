@@ -1,5 +1,5 @@
-﻿---
-layout:post
+---
+layout: post
 title:  AJPAE report
 date:   1 May 2010
 author: Dr Anna Corbo Crehan
