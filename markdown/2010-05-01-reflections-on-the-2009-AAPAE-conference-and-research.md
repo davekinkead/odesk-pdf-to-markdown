@@ -1,5 +1,5 @@
-﻿---
-layout:post
+---
+layout: post
 title:  Reflections on the 2009 AAPAE conference and research
 date:   1 May 2010
 author: Joseph Angert-Quiller
