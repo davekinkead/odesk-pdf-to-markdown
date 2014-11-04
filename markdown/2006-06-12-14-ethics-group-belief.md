@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Ethics, groups and belief
 date:   12-14 June 2006
@@ -16,7 +16,7 @@ First, however, it is worth noting that the issues are just as salient now as th
 
 In what follows, I deal with such issues in abstract terms and with reference to some historical examples. The historical examples help to make the general points, I think, but limitations of space and time mean that I cannot also relate those general points to concrete examples from the contemporary world. I hope that it will not be hard for anyone to see how that can be done.
 
-####Groups, Decisions and Roles####
+#### Groups, Decisions and Roles ####
 
 When I noted last year that differences of religious belief may be an example of differences that sustain group conflict but which cannot easily be analysed in terms of interests, I used this as an example of the way that group “positions” may be important as a focus of conflict. Although it can often be good advice for a negotiator to focus on “interests” rather than “positions”, there are some conflicts where “positions” are very important. I noted the concerns people have and the decisions they make and the actions they carry out which emerge from values and ethical commitments, and that there is evidence that these are bound up with people’s positions and social identities.
 
@@ -34,7 +34,7 @@ In both minimal group experiments, and in the Prisoners’ Dilemma simulations r
 
 The idea that role theory can give a better theoretical account of some behaviour than rational choice theory does, is tied to reasons why rational choice theory may not give a good explanation of group conflict. In particular, it is tied to the fact that beliefs and positions can have effects which are difficult to explain by reference to calculation of interests. Small variations to instructions significantly affect people’s behaviour in simulations of group behaviour, just as they do in Prisoners’ Dilemma simulations. They seem to do so because they affect the extent to which people accept an identity which is tied to their membership of the group. But the result is that variations in belief which to outsiders seem quite small differences can be tied to significant differences in group membership. Such differences do not seem to be clearly related to utility-based calculation, but to do with differences in self-understanding and social identity. These differences are often reflected in differences of belief.
 
-####Group beliefs and politics####
+#### Group beliefs and politics ####
 
 Because differences in description and belief are associated with differences in group membership, differences in belief can be of major significance in group politics. We know that there are substantial influences on members of groups to conform to norms and expectations about behaviour by group members.10 If there are pressures on individuals who are group members to conform to group norms, and if group membership is tied to certain kinds of belief commitments, then it is not surprising that group conflict provides fertile ground for persuasion and manipulation that are ethically problematic.
 
@@ -54,7 +54,7 @@ In fact, of course, Jesus exits neatly between the horns of the dilemma. By gett
 
 Some similar kinds of cases have been analysed by Riker. One is a similar tactic to that used by the Herodians and Pharisees, but used this time by Abraham Lincoln against his political opponent Stephen Douglas.20 In this and other cases, Riker shows how political tactics often aim to compromise opponents by forcing them into positions that will alienate some or other of their allies (a modern term for this is “wedge politics”).
 
-####Beliefs, Positions and Commitment####
+#### Beliefs, Positions and Commitment ####
 
 The link between a position on a specific issue and group beliefs in general, may be quite clear-cut, or less so. There is no difficulty about seeing the relevance of an Archbishop’s position regarding the existence of God, to the beliefs of the Church he leads. The legality of paying taxes to Caesar needs more explanation for us to understand its relationship to group allegiances. These may have been quite clear to people at the time, but the relationship nevertheless depends on their array of background beliefs and knowledge. There are a range of cases where such relationships are more subtle still, down to cases where a proposal is put only for the sake of inviting people to come down on one side or another, explicitly to test their allegiance and perhaps to offer a forum for debate and manoeuvre.
 
@@ -70,7 +70,7 @@ How we should evaluate others’ affirmations of belief will vary from case to c
 
 Participants in the Regensburg discussions considered such major issues of doctrine that separated Catholics and Protestants, and in doing so they focussed in great detail on the substance of the issues. But, at the same time, their deliberations were surrounded by implications of one position or another on party structures and alliances. The Emperor Charles V needed resolution of the religious schism to restore his political authority in Germany, the Papacy was concerned both about doctrine and about restoration of church lands, while German princes were concerned both about the religious principles that united their people and the preservation of a measure of independence. The religious and political issues were completely entwined. There is no need to assume that debate over doctrinal issues was simply a cloak for political bargaining, or that the debate would reach theological conclusions in an ivory tower remote from political considerations.
 
-####Commitment and Hypocrisy####
+#### Commitment and Hypocrisy ####
 
 We can find similar interplay between religious doctrine and political positions throughout history, from the rise of Christianity in the Roman Empire down through the role of the Catholic church in communist Poland during the days of the Solidarity movement, to present-day tensions in the Middle East. Bar-Tal notes that “group beliefs, which characterize the group, demarcate its boundaries with the out-groups”25, and the corollary is that by professing such a belief one marks oneself as a member of the in-group.
 
@@ -84,7 +84,7 @@ In general, hypocrisy seems to consist in claiming moral purity or uprightness t
 
 However, that is not all that is at issue here. Consider the Gospel case once more. The hypocrisy of Jesus’ questioners lay in them purporting to have a genuine interest in the answer to their question, because if they did have such a genuine interest, that would show them to have worthy interests and concerns and aspirations towards good policy and right action. In fact, of course, their actual motivation was not a genuine interest in the answer to their question. They had their own views about that issue, and firm commitments, which Jesus’ answer would not affect. Their actual motivation was to force Jesus into a difficult position. Their question, therefore, had several different functions. One was the surface function, of seeking information or opinion on the issue, for their guidance. A second was the ulterior function, of structuring a situation where any choice by Jesus would be problematic for him. A third was to put Jesus off his guard, perhaps to take less care with his answer than he might when he knew their intentions. Insofar as it is an attempt to put Jesus off his guard in a dangerous position, and lead him to expose himself to attack, the reasons to question it may not only be to do with hypocrisy and deception, but may be like reasons we have to question uses of force and violence.
 
-####Conclusion####
+#### Conclusion ####
 
 There are multiple ethical issues which arise from the way that belief figures in group dynamics and related tactics of persuasion and influence. In conclusion, I wish to focus just on one of them, to take us back to the point at which we began.
 
