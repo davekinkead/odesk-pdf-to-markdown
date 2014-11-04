@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title:  Book notice: Aristotle's power and responsibility for nature
+title:  "Book notice: Aristotle's power and responsibility for nature"
 date:   1 December 2011
 author: Stephan Millett
 categories: australian-ethics
