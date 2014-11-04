@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  President's report by Betty Chaar
 date:   1 December 2011
