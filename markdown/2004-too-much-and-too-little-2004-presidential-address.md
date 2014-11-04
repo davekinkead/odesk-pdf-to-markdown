@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Too much and too little 2004 presidential address
 date:   2004
