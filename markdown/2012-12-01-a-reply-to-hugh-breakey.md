@@ -41,11 +41,3 @@ Several philosophers (e.g. LeBlanc 1998; Vaughn 2008) assert that the philosophi
 Ultimately, moral philosophy is a discipline which, although it assures us that it is the mother of ethical theory and practice, does not teach a full set of approaches to strengthening ethical behaviour, nor undertake the research necessary to assess and improve developments already underway.
 
 On reflection, I now believe that it is the student of ethics in our schools of moral philosophy who is the bigger loser. Teachers and practitioners in ethics can search out these new developments themselves (although with some difficulty). Students, however, take ethics courses. Many, one suspects, hope to work at extending ethical practices as widely as possible throughout our communities. Instead, they have been given an incomplete knowledge of developments and capabilities in ethics work in government or the private sector. They have been turned out – for only a few – with the capacity to on-teach what they have learned so far. And that learning is circumscribed. It is also of limited value in the work day world.
-
-
-
-
-
-
-
-

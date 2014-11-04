@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ethics, groups and belief
-date:   12-14 June 2006
+date:   14 June 2006
 author: Chris Provis, University of South Australia
 categories: australian-ethics
 ---
@@ -149,7 +149,3 @@ In cases of group conflict which involve differences of belief, it does not seem
 25 Bar-Tal, op. cit, p. 106.
 
 26 Although Stocker suggests that “intellectual activities done for the goals and according to the criteria inherent in them are among the greatest human goods” (“Intellectual Desire, Emotion, and Action”, in A.O. Rorty (ed.) Explaining Emotions, Berkeley: University of California Press, 1980, pp. 323–338, p. 337), and if we accept that forming beliefs is an “intellectual” activity there may be a way to pursue an idea that it is in people’s interests to form beliefs on the basis of evidence. While I think that line of argument fails, I cannot pursue the point here. On what follows see also Stocker’s “Responsibility Especially for Beliefs” Mind, 91 (1982), 398–417.
-
-
-
-

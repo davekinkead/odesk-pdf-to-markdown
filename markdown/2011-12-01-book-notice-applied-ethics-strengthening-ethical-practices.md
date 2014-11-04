@@ -19,3 +19,4 @@ Fourth, the corporate meltdowns of the previous decade and the dubious ethical b
 Fifth, one aspect of the increased emphasis on ethical behaviour is a stronger provision of ethics teaching in our schools, colleges and universities, and on ethics consulting and training in the work force. As the chapters of the AAPAE book demonstrate, this training necessarily must be undertaken by people with knowledge of the relevant ethical concerns in the discipline or organisation. It needs also to encompass the many issues raised in the book. They are both tasks that are wider than most discipline-based training or educational programs in moral philosophy. The chapter on ethics teaching and training examines the possible approaches that can be adopted.
 
 ####Peter Bowden (ed.) 2012 Applied Ethics: Strengthening Ethical Prac-tices (Prahran: Tilde University Press).####
+

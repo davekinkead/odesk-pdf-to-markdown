@@ -45,5 +45,3 @@ Hirst, Angela, 'Avoiding ethics in an inner city suburb‘, New Talents 21C 2006
 The name of my business, The Good Soup, comes from an Emmanuel Levinas quote 'We live from 'good soup‘…‘
 
 Levinas, Emmanuel, Totality and Infinity, an Essay on Exteriority. Translated by A. Lingis. (Pittsburgh: Duquesne University Press, 1961), p.110.
-
-

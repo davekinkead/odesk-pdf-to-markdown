@@ -29,4 +29,3 @@ Reviewed by Jeffrey Chapman.
 John is Professor of Natural Resources Engineering at the Royal Melbourne Institute of Technology University and is Honorary Professor at Wismar, University of Technology Business and Design in Germany.
 
 He is President of the International Union of Biological Sciences and chairs their bioethics committee. In addition, he is President of the International Society of Zoological Sciences and a Councillor of the Royal Society of Victoria.
-

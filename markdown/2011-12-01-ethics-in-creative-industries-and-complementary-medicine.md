@@ -31,4 +31,3 @@ erush@csu.edu.au
 Australian Health Ministers’ Advisory Council (AHMAC), 2011 (February). Consultation paper: Options for regulation of unregistered health practitioners. Available from: http://www.ahmac.gov.au/site/home.aspx (accessed 2 December, 2011).
 
 Stone, J. 2005. Ethics in complementary and alternative medicine, pp.83-110 in Heller, T. (ed.) Perspectives on complementary and alternative medicine. Routledge: United Kingdom.
-

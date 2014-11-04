@@ -27,4 +27,3 @@ Kovesi’s moral philosophy shows why we need a rich repertoire of concepts. Eac
 Moral Notions had a strong influence on a few philosophers, and no influence at all on many. To those for whom his work mattered it seems to still matter.
 
 Amongst them are some well-known names: Bernard Harrison, Peter French, Bob Ewin, Jean Bethke Elshtain, and Dennis Patterson. A collection of papers by these authors and others designed to re-introduce Kovesi’s distinctive contribution to moral philosophy has recently been compiled by Brian Mooney and Alan Tapper, under the title Meaning and Morality: Essays on the Philosophy of Julius Kovesi (Brill, 2012). Alasdair MacIntyre once described Moral Notions as “a minor classic of moral philosophy”.
-
