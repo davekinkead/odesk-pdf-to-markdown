@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ethical conduct: What's philosophy got to do with it?
+title:  "Ethical conduct: What's philosophy got to do with it?"
 date:   1 December 2012
 author: Hugh Breakey
 categories: australian-ethics
