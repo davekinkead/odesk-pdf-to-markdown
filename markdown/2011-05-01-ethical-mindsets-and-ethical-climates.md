@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title:  Ethical mindsets and ethical climates: research work in progress
+title:  "Ethical mindsets and ethical climates: research work in progress"
 date:   1 May 2011
 author: Theodora Issa and David Pick
 categories: australian-ethics
