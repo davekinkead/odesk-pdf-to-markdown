@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title:  Book notice: applied ethics – strengthening ethical practices
+title:  "Book notice: applied ethics – strengthening ethical practices"
 date:   1 December 2011
 author: Peter Bowden
 categories: australian-ethics
