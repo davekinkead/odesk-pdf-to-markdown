@@ -7,6 +7,7 @@ categories: australian-ethics
 ---
 
 ####Association News####
+
 The upcoming conference in Fremantle is, of course, the big event of the year for the AAPAE. This will be the Association’s 20th Annual Conference, which itself is quite a landmark. There are a number of members of the AAPAE who have been members since the very beginning – and even earlier, at a conference the year before the establishment of the AAPAE, when plans and decisions were made to create the Association. From its beginning, the AAPAE has been concerned not to be merely an academic organisation and to have not merely relevance to the practical world but also a clear involvement with it. This is a tall order. 
 
 From the time of the AAPAE’s creation, the annual conference has been its main event of the year. For a number of years now, it has also maintained a list server that has functioned as communicating notes and news, and, occasionally, offering a platform for discussion of issues. In past years, the AAPAE tried to conduct mini-conferences during the year, centred around specific issues, but this proved difficult to sustain. 
@@ -14,7 +15,8 @@ From the time of the AAPAE’s creation, the annual conference has been its main
 At its last meeting, the Executive accepted a suggestion offered by its secretary, Peter Bowden, to try to establish blogs for special interests - for example, a blog dealing with whistleblowing (Peter’s passion). The general idea would be that it would create a forum for interested people to discuss issues, concerns, problems, and news around a specific topic. Blogs would be maintained by specific moderators and might (or might not) hang off the AAPAE’s website and might (or might not) have their own subscription lists. Suggestions are welcome at the AAPAE’s email address:  
 aapae@unsw.edu.au 
 
-##Ethical Relativism##
+####Ethical Relativism####
+
 In the last newsletter, I offered a couple of very short discussions. These were of issues that had been bothering me for some time; and I wanted to share my worries and the causes of the worries. Here is a thought about ethical relativism.
 
 We have probably all been present when the relativism card is played. It is usually played as a way of cutting off discussion, argument, or criticism – “it’s all relative, isn’t it?”  I believe that there are significant confusions involved when the card is played; and I actually don’t really believe that the professed relativist is really an ethical relativist after all. Ethical relativism per se actually encompasses a package of views, not simply one view at all, and a person might, in fact, subscribe to one of these without the rest.

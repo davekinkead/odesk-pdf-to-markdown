@@ -92,4 +92,3 @@ The bigger loser however, is society at large. Research into ways that society c
 There are other losers, however - those moral philosophers who enjoy arguing. Or who wish to advance themselves in departments of philosophy. They will also lose the joy of arguing through the philosophical thoughts of history. Those that wish to make a difference in applied ethics will also not have much fun, for they will need to learn a much wider range of analytical skills and practices - sampling techniques, evaluation research, and statistical analysis for a start.
 
 They might in the process, however, make the world a more ethical place in which to live. So the issue raised a question for our philosophy café. And other cafes philo around the world. What path should we follow?
-

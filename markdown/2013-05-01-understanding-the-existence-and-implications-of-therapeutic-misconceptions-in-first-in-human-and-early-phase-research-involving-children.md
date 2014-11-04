@@ -21,6 +21,7 @@ A doctoral research project is currently being undertaken by the Center for Heal
 Primarily the justification for the study is a concern that any therapeutic misconceptions about research participation, as perceived by the parents of child participants, may impact on their ability to deliberate and make a meaningful, valid decisions about their child’s involvement in EPR [23, 24]. This is particularly the case for parents deliberating about enrolling children with refractory disease in experimental clinical studies that may involve limited potential for benefit but great potential for uncertain risks and harms.
 
 ####References####
+
 1. Nossal, G., Medical Science and Human Goals. 1975, Port Melbourne: Edward Arnold Australia.
 2. Cheng, J., et al., Impact of quality of life on patients expectations regarding phase I clinical trials. Journal Of Clinical Oncology, 2000. 18(2): p. 421-428.
 3. Kimmelman, J., Gene Transfer and the Ethics of First-in-Human Research: Lost in Translation, ed. C. Medicine. 2012, Cambridge: Cambridge University Press.
