@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title:  Moral courage in organizations: doing the right thing at work, Debra R. Comer and Gina Vega (eds) ME Sharpe, Armonk NY.
+title:  "Moral courage in organizations: doing the right thing at work, Debra R. Comer and Gina Vega (eds) ME Sharpe, Armonk NY."
 date:   1 December 2011
 author: Howard Harris
 categories: australian-ethics
